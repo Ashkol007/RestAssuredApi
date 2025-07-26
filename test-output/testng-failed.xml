@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day1.diffWaysToCreatePostRequestBody">
+      <class name="Day1.CookiesandHeaders">
         <methods>
-          <include name="testPostUsingHasmap"/>
+          <include name="checkHeaders"/>
         </methods>
-      </class> <!-- Day1.diffWaysToCreatePostRequestBody -->
+      </class> <!-- Day1.CookiesandHeaders -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
