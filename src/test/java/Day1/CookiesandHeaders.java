@@ -69,6 +69,7 @@ public class CookiesandHeaders {
 		       for(Header head: allheader) {
 		    	   
 		    	    System.out.println(head);
+		    	    
 		       }
 		
 	}
