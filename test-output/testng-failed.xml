@@ -5,7 +5,7 @@
     <classes>
       <class name="Day1.checkResponseData">
         <methods>
-          <include name="checkJSON"/>
+          <include name="checkJSONData"/>
         </methods>
       </class> <!-- Day1.checkResponseData -->
     </classes>
